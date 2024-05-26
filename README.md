@@ -15,7 +15,7 @@
 
 ## 参与交流
 
-欢迎大家将珍藏已久的经典免费书籍共享出来，您可以：
+ 
 
 * 使用 [Pull Request](https://github.com/justjavac/free-programming-books-zh_CN/pulls) 提交
 
